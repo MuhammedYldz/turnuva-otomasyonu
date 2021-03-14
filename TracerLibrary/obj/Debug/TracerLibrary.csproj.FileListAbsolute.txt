@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2010\Projects\TracerLibrary\TracerLibrary\bin\Debug\TracerLibrary.dll
+c:\users\pc\documents\visual studio 2010\Projects\TracerLibrary\TracerLibrary\bin\Debug\TracerLibrary.pdb
+c:\users\pc\documents\visual studio 2010\Projects\TracerLibrary\TracerLibrary\obj\Debug\TracerLibrary.dll
+c:\users\pc\documents\visual studio 2010\Projects\TracerLibrary\TracerLibrary\obj\Debug\TracerLibrary.pdb
+C:\Users\PC\Documents\Visual Studio 2010\Projects\TracerLibrary\TracerLibrary\obj\Debug\TracerLibrary.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2010\Projects\TracerLibrary\TracerLibrary\bin\Debug\TracerLibrary.dll.config
+C:\Users\PC\Documents\Visual Studio 2010\Projects\TracerLibrary\TracerLibrary\bin\Debug\Dapper.dll
+C:\Users\PC\Documents\Visual Studio 2010\Projects\TracerLibrary\TracerLibrary\bin\Debug\Dapper.xml
+C:\Users\PC\Documents\Visual Studio 2010\Projects\TracerLibrary\TracerLibrary\obj\Debug\TracerLibrary.csproj.CopyComplete
